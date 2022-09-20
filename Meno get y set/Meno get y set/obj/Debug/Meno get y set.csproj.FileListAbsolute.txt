@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\bin\Debug\Meno get y set.exe.config
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\bin\Debug\Meno get y set.exe
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\bin\Debug\Meno get y set.pdb
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno_get_y_set.Form1.resources
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno_get_y_set.Properties.Resources.resources
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.exe
+C:\Users\emili\source\repos\Meno get y set\Meno get y set\obj\Debug\Meno get y set.pdb
